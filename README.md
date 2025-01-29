@@ -1,16 +1,23 @@
-## Hi there 👋
+## 💡 Jeevika | Business Analyst | Data-Driven Strategist
 
-<!--
-**Jeevika-Menghwani/Jeevika-Menghwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Applied Business Analytics | Boston University, MA
+📊 Business Analyst | Data Enthusiast | Problem Solver
+📍 Actively Seeking Opportunities in Business Analytics, Data Analysis & Strategy
 
-Here are some ideas to get you started:
+🚀 About Me
+A Business Analyst & Data Enthusiast passionate about turning raw data into actionable insights that drive strategic decision-making. With 2+ years of experience, I specialize in data analytics, predictive modeling, and business intelligence to optimize operations and boost growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I don’t just analyze data—I craft stories that drive business impact.
+
+🔍 Key Focus Areas:
+✔ Business Intelligence & Market Analysis
+✔ Predictive Analytics & Machine Learning
+✔ Process Optimization & Strategy Development
+✔ Data Visualization (Tableau | Power BI)
+✔ SQL, Python, R for Data Modeling & Automation
+
+🔥 What I Bring to the Table
+🔹 SQL & Python – From data wrangling to predictive modeling
+🔹 Machine Learning & Analytics – A/B testing, clustering, and forecasting
+🔹 Business Intelligence – Power BI, Tableau, and Advanced Excel
+🔹 Strategic Problem-Solving – Root cause analysis & process optimization
